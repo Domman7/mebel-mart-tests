@@ -15,8 +15,9 @@ ENV/
 # Allure
 reports/
 allure_results/
-!allure-results/.gitkeep
 allure-report/
+allure-results/
+!allure-results/.gitkeep
 
 # Screenshots
 screenshots/
