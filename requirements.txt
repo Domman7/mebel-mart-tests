@@ -1,0 +1,7 @@
+wheel>=0.42.0
+greenlet>=3.0.0
+pytest>=8.0.0
+pytest-xdist>=3.6.0
+allure-pytest>=2.13.5
+playwright>=1.42.0
+python-dotenv>=1.0.0

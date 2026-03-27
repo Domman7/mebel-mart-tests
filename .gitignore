@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# pytest
+.pytest_cache/
+
+# Allure
+reports/
+allure_results/
+!allure-results/.gitkeep
+allure-report/
+allure-results/
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Traces
+traces/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Distribution
+build/
+dist/
+*.egg-info/
